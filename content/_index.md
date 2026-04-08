@@ -21,7 +21,7 @@ Jäsenmaksu on 25 €/vuosi.
 
 Tiedotamme asioista jäsentiedotteen välityksellä. Meidät löytää myös [Facebookista](https://www.facebook.com/Itaharju) [Itäharju Österås](https://www.facebook.com/Itaharju)
 
-Olemme yhdistysjäsenenä [Turun Pientalojen Keskusjärjestö ry:ssä](http://turunpientalot.fi/sivut/doku.php?id=tpk). Sen neuvottelemat jäsenedut ovat yhdistyksemme jäsenten käytettävissä.
+Olemme yhdistysjäsenenä [Turun Pientalojen Keskusjärjestö ry:ssä](https://www.turunpientalot.fi). Sen neuvottelemat jäsenedut ovat yhdistyksemme jäsenten käytettävissä.
 
 ## Hallitus
 
