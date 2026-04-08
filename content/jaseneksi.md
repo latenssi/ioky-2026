@@ -15,7 +15,7 @@ Paimenpuisto, on yhdistyksemme kummipuistona huolenpitomme kohde, tapahtumapaikk
 
 Jäseneksi voi liittyä jokainen Itäharjun alueella kiinteistön tai sen osan hallintaan oikeutettu henkilö. Jäseneksi haluavan on jätettävä pyyntö asiasta yhdistyksen hallitukselle.
 
-**Jäsenmaksu on 20€/vuosi.**
+**Jäsenmaksu on 25€/vuosi.**
 
 Liittymispyynnön voit lähettää sähköpostilla osoitteeseen [hallitus@ioky.fi](mailto:hallitus@ioky.fi). Kerro viestissä nimesi ja katuosoitteesi.
 
