@@ -34,5 +34,5 @@ hugo --minify      # production build → public/
 
 - All content is in Finnish. Do not translate or summarize Finnish text.
 - `content/saannot.md` contains the association's legal bylaws — do not paraphrase or alter wording.
-- The site has no backend, no database, no forms. Contact and membership are handled via email (hallitus@ioky.fi).
+- The site has no backend, no database, no forms. Contact and membership are handled via email (itaharju.oky@gmail.com).
 - This replaced an older Astro + Directus setup (see `latenssi/ioky-frontend-2022` on GitHub for history).

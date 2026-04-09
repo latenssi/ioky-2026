@@ -17,7 +17,7 @@ Jäseneksi voi liittyä jokainen Itäharjun alueella kiinteistön tai sen osan h
 
 **Jäsenmaksu on 25€/vuosi.**
 
-Liittymispyynnön voit lähettää sähköpostilla osoitteeseen [hallitus@ioky.fi](mailto:hallitus@ioky.fi). Kerro viestissä nimesi ja katuosoitteesi.
+Liittymispyynnön voit lähettää sähköpostilla osoitteeseen [itaharju.oky@gmail.com](mailto:itaharju.oky@gmail.com). Kerro viestissä nimesi ja katuosoitteesi.
 
 Olethan tietoinen, että
 
