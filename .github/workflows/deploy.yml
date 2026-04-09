@@ -30,7 +30,7 @@ jobs:
         with:
           hugo-version: latest
           extended: true
-      - run: hugo --minify --baseURL "https://latenssi.github.io/ioky-2026/"
+      - run: hugo --minify
       - uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
